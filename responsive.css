@@ -3,10 +3,13 @@
 }
 
 /* For Smartphones */
-@media all and (max-width: 800px) {
+@media all and (max-width: 670px) {
   .header-right {
-    
+    display: none;
   }
 
-  
+  span.menu-icon {
+    display: block;
+  }
 }
+
