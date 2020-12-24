@@ -28,6 +28,7 @@ a {
 .top-container {
   padding: 220px 0 180px 0;
   background-image: url('tree—planet of the universe_846415.jpg');
+  background-repeat:no-repeat;
   background-size:100%;
   text-align: center;
 }
